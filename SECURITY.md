@@ -8,9 +8,9 @@ Only the latest release is actively supported with security updates.
 
 1. Go to this repository's security page.
 <!-- 1. Go to this repository's [security page][secPageDef] -->
-1. Click the `Report a vulnerability` button.
+2. Click the `Report a vulnerability` button.
     - **Note:** This requires you to be logged into a GitHub account.
-2. Include:
+3. Include:
     - Steps to reproduce
     - Impact assessment
     - Potential fixes or mitigations (if known)
